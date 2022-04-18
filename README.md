@@ -1,6 +1,6 @@
 # Products
 
-This is a sample portfolio I created to help showcase my analysis for on random product data from:
+This is a sample portfolio I created to help showcase my analysis on random product data from:
 
 https://www.kaggle.com/datasets/knightbearr/sales-product-data
 
